@@ -2,7 +2,8 @@
 
 <h1>About Me</h1>
 <p>In case you couldn't tell already, my name is Jalen and I am a front end developer. :computer:</p>
-<p>Based in NYC :apple: </p>
+<p>Based in NYC :apple:</p>
+<p>Check out my <a href="https://jalenj.com">portfolio website</a></p>
 
 <h3>Tools<h3>
 <div><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /></div>
