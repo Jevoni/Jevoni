@@ -31,7 +31,7 @@
 </div>
   
 ## &#x1f4c8; GitHub Stats
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=jevoni&count_private=true&hide=,prs,issues,contribs&show_icons=true&theme=tokyonight" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevoni&layout=compact" />
 </div>
