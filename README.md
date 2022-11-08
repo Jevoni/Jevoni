@@ -26,9 +26,9 @@
 
 <h3>Social<h3>
 <div>
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</div>
+  <a href="https://www.linkedin.com/in/jalenjohnson23/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="jalenjevoni@gmail.com"<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</div></a>
   
 ## &#x1f4c8; GitHub Stats
 <div>
