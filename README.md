@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/55769342/200345544-5d11f1c5-81c0-406e-be11-75ca61d5df68.png)](https://github.com/Jevoni)
 
 <h1>About Me</h1>
-<p>In case you couldn't tell already, my name is Jalen and I am a front end developer. :computer:</p>
+<p>In case you couldn't tell already, my name is Jalen and I am a front end developer :computer:</p>
 <p>Based in NYC :apple:</p>
 <p>Check out my <a href="https://jalenj.com">PORTFOLIO</a>:heavy_exclamation_mark:</p>
 
