@@ -1,8 +1,27 @@
 [![MasterHead](https://user-images.githubusercontent.com/55769342/200345544-5d11f1c5-81c0-406e-be11-75ca61d5df68.png)](https://github.com/Jevoni)
 
-[![Jevoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevoni&count_private=true&hide=,prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/jevoni/github-readme-stats)  
+<h1>About Me</h1>
+<p>In case you couldn't tell already, my name is Jalen and I am a front end developer. :computer:</p>
+<p>Based in NYC :apple: </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jevoni&layout=compact)](https://github.com/jevoni/github-readme-stats)
+<h3>Tools<h3>
+<div><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /></div>
+<div><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></div>
+
+<h3>Technologies</h3>
+<div><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></div>
+<div><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></div>
+<div><img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" /></div>
+<div><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" /></div>
+
+<h3>Social<h3>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+## &#x1f4c8; GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jevoni&count_private=true&hide=,prs,issues,contribs&show_icons=true&theme=tokyonight" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevoni&layout=compact" />
+</div>
 
 <!---
 Jevoni/Jevoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
