@@ -2,6 +2,7 @@
 
 [![Jevoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevoni&count_private=true&hide=,prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/jevoni/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jevoni&layout=compact)](https://github.com/jevoni/github-readme-stats)
 
 <!---
 Jevoni/Jevoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
