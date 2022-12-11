@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/55769342/200345544-5d11f1c5-81c0-406e-be11-75ca61d5df68.png)](https://github.com/Jevoni)
 
 <h1>About Me</h1>
-<p>My name is Jalen and I am a full stack developer :computer:</p>
+<p>My name is Jalen and I am a Full Stack Developer :computer:</p>
 <p>Based in NYC :apple:</p>
 <p>Check out my <a href="https://jalenj.com"><img src="https://img.shields.io/badge/-portfolio-red" /></a></p>
 
