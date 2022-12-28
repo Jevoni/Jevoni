@@ -3,7 +3,7 @@
 <h1>About Me</h1>
 <p>My name is Jalen and I am a Full Stack Developer :computer:</p>
 <p>Based in NYC :apple:</p>
-<p>Check out my <a href="https://jalenj.com"><img src="https://img.shields.io/badge/-portfolio-red" /></a></p>
+<p>Check out my <a href="https://jalenj.com"><img src="https://img.shields.io/badge/-portfolio-red?style=for-the-badge" /></a></p>
 
 <h3>Tools<h3>
 <div><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /></div>
